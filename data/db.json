@@ -535,6 +535,12 @@
       "password": "$2a$10$EAegJLvG5i3K.lPc9hMILua.sPTawvjUE1F3xO.3CMTml6vHRyvFm",
       "name": "Alex T",
       "id": 3
+    },
+    {
+      "email": "grind@yahoo.com",
+      "password": "$2a$10$n6liuJKRDVkfI31CKwPPjeLABqiO6mbY7B.mxo2mSbB1hzMU.Vxqi",
+      "name": "grind",
+      "id": 4
     }
   ]
 }
